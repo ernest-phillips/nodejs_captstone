@@ -49,6 +49,7 @@ Not seeking contribution at this time.
 ## Authors
 
 - **Ernest Phillips** -
+Collaborated with @erndevelops
 
 ## License
 
