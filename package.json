@@ -33,7 +33,7 @@
         "firacode": "^1.206.0",
         "handlebars": "^4.4.3",
         "joi": "^14.3.1",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "jsonwebtoken": "^8.5.1",
         "micromodal": "^0.3.2",
         "mocha": "^5.2.0",
